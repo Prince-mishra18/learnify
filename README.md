@@ -1,2 +1,3 @@
 # learnify
-Learnify - An e-learning website to explore courses, skills, and learning resources.
+An E-Learning Website designed to make learning easy, interactive, and accessible.
+Browse courses, explore skills, and grow with Learnify 🚀.
